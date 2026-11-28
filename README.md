@@ -278,6 +278,7 @@ AwaazSetu AI explores how voice technology and responsible AI can make civic ass
 
 ### AI Complaint Generation
 ![AI Complaint](screenshots/ai-complaint.png.png)
+![AI Complaint](screenshots/ai-draft.png.png)
 
 ### Complaint History
 ![Complaint History](screenshots/complaint-history.png.png)
