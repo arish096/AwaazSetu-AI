@@ -285,7 +285,9 @@ AwaazSetu AI explores how voice technology and responsible AI can make civic ass
 
 ## 🎬 Demo Video
 
-Coming Soon!
+[![Watch AwaazSetu AI Demo](https://img.youtube.com/vi/ItABE19O6os/maxresdefault.jpg)](https://youtu.be/ItABE19O6os)
+
+▶️ **[Watch AwaazSetu AI Demo on YouTube](https://youtu.be/ItABE19O6os)**
 
 ## 👨‍💻 Author
 
